@@ -11,7 +11,13 @@
     <p id="text">原本文字</p>
 
 <button onclick="changeText()">修改文字</button>
+<button onclick="sayHi()">點我</button>
 
+<script>
+function sayHi() {
+    alert("你好！");
+}
+</script>
 <script>
 function changeText() {
     document.getElementById("text").innerHTML = "文字已改變！";
