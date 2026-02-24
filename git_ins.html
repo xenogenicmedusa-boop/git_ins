@@ -8,6 +8,14 @@
 <body>
     <button onclick="sayHi()">點我</button>
     <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, dolor.</h1>
+    <p id="text">原本文字</p>
 
+<button onclick="changeText()">修改文字</button>
+
+<script>
+function changeText() {
+    document.getElementById("text").innerHTML = "文字已改變！";
+}
+</script>
 </body>
 </html>
