@@ -1,0 +1,11 @@
+*{
+    --mycolor01: #e1dcd9;
+    --mycolor02: #8f8681;
+    --mycolor03: #a67f78;
+    --mycolor04: #32435f;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
