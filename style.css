@@ -20,4 +20,5 @@ h1{
 }
 h2{
     color: var(--mycolor01);
+    color: var(--mycolor03);
 }
