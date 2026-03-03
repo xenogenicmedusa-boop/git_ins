@@ -10,3 +10,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+h1{
+    color: var(--mycolor01);
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+}
