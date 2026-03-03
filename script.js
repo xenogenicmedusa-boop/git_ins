@@ -5,3 +5,4 @@ let b = 5;
 let result = a + b;
 
 console.log(result);
+function changeText(checkout) {console.log("button clicked!");}
